@@ -1,0 +1,42 @@
+
+.container{
+
+    margin: auto;
+    text-align: center;
+}
+
+.tabladiv{
+    margin-top: 40px;
+}
+
+.carton{
+    box-shadow: 7px 11px 26px -10px rgba(0,0,0,0.75);
+    width: 400px;
+    height: 500;
+    border-radius: 30px;
+    margin:auto;
+
+}
+
+#bal{
+    background-color: rgb(15, 15, 153);
+    width: 200px;
+    height: 200px;
+    color: white;
+    border-radius: 100px;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 7px 11px 26px -10px rgba(0,0,0,0.75);
+    
+}
+
+.grupo{
+    
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgb(199, 190, 190) inset, 0px 0px 25px rgb(73, 73, 98);
+}
+
+
