@@ -23,3 +23,6 @@ Dentro de este proyecto puedes encontrar 3 carpetas
 - Temporizador del juego para que inicie el juego
 - Conexión entre login y lógica del juego para guardar ganadores y demás registros
 - Mejorar la parte de CSS para hacer más atractivo el juego
+
+
+Aplicacion desarrollado por Diego Fernando Becerra Zambrano - Email: diegofer1110@gmail.com
