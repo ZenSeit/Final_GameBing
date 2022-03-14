@@ -1,8 +1,8 @@
 # Final_GameBing
 
-#Bingo
+# Bingo
 
-#Prototipo desarrollado empleando spring boot y nodeJS para el backend y las vistas
+# Prototipo desarrollado empleando spring boot y nodeJS para el backend y las vistas
 se presentan en html
 
 Actualmente el juego genera las balotas para jugar y se puede marcar en el tarjetón las balotas
@@ -16,7 +16,7 @@ Dentro de este proyecto puedes encontrar 3 carpetas
 - SQL: se encuentra el script de la base de datos en MySQL que almacenara los datos de los juegos
 
 
-#Falta por desarrollar
+# Falta por desarrollar
 
 - Implementar la lógica para ganar
 - Creación de sesiones para los jugadores
